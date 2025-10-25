@@ -32,6 +32,6 @@ public class KafeDoWhile11 {
         } while (true);
         System.out.println("Semua Transaksi selesai. Terima kasih!");
     
-        
+        sc.close();
     }
 }

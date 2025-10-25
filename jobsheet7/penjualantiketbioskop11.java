@@ -33,7 +33,7 @@ public class penjualantiketbioskop11 {
             hargatiket -= hargatiket * 0.10;
         }
         
-        System.out.println("===== STRUK PEMBELIAN TIKET BIOSKOP =====");
+        System.out.println("\n===== STRUK PEMBELIAN TIKET BIOSKOP =====");
 
         System.out.println("Nama Pembeli : " + namapembeli);
         if (jumlahtiket > 10) {
